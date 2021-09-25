@@ -1,15 +1,14 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://simo-nao.github.io</id>
-    <title>Gridea</title>
-    <updated>2021-09-25T12:59:24.903Z</updated>
+    <title>KAIBA</title>
+    <updated>2021-09-25T13:00:56.357Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://simo-nao.github.io"/>
     <link rel="self" href="https://simo-nao.github.io/atom.xml"/>
-    <subtitle>温故而知新</subtitle>
     <logo>https://simo-nao.github.io/images/avatar.png</logo>
     <icon>https://simo-nao.github.io/favicon.ico</icon>
-    <rights>All rights reserved 2021, Gridea</rights>
+    <rights>All rights reserved 2021, KAIBA</rights>
     <entry>
         <title type="html"><![CDATA[又一个九月末]]></title>
         <id>https://simo-nao.github.io/post/di-er-ge-jiu-yue-mo/</id>
