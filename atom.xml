@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://simo-nao.github.io</id>
     <title>KAIBA</title>
-    <updated>2021-10-07T14:48:47.400Z</updated>
+    <updated>2021-10-10T15:45:38.938Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://simo-nao.github.io"/>
     <link rel="self" href="https://simo-nao.github.io/atom.xml"/>
@@ -10,17 +10,44 @@
     <icon>https://simo-nao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, KAIBA</rights>
     <entry>
+        <title type="html"><![CDATA[Why Japan]]></title>
+        <id>https://simo-nao.github.io/post/why-japan/</id>
+        <link href="https://simo-nao.github.io/post/why-japan/">
+        </link>
+        <updated>2021-10-07T18:49:50.000Z</updated>
+        <content type="html"><![CDATA[<p>前天和同一研究室的同学一起吃了饭，之前已经知道他准备回国实习，当然也准备毕业后回国工作了。虽然当时他也是准备留这边的，也没想到能转变这么快。<br>
+和他聊了一下回国的原因：</p>
+<blockquote>
+<p>1.日本饮食太单一了，国内吊打日本<br>
+2.国内 IT 公司给的白菜价已经超过日本工作好几年的了<br>
+3.在这里太无聊了，没什么认识的人<br>
+4.日本政府垃圾无能，连疫情处理不好<br>
+5.国内想买什么太方便了，淘宝吊打 amazon</p>
+</blockquote>
+<p>以上我还是赞同的，也挺能理解他回国的原因。但每个人的选择都不一样，纵使了解以上的原因，也改变不了我以后留日的决心。今天，就在这里好好回答一下找工作时面试的经典问题“Why japan？”</p>
+<ol>
+<li>日本更好躺下，也就是 work life balance 问题。虽然国内大厂给出的工资已经比日本的要高了，但日本加班比国内要少太多了，而且假期也比国内多。引用前辈的话说就是国内感觉是用1.5倍的工资招一个人，然后干2人份的活，日本是1倍的工资招一个人，干1人份的活甚至是0.8人份的。</li>
+<li>环境很好，人们普遍素质高，距离感强互不打扰。</li>
+<li>房价相对不高，福利好。</li>
+<li>不用翻墙</li>
+</ol>
+<p>至于我同学想要回去的客观因素，对我也不成什么问题，说到饮食，其实在东京想吃什么也不是没有，只是没国内那么方便。买东西的话，也可以从国内淘宝转运过来，稍微花点时间而已。至于垃圾政府，这就是民主社会的代价，政府管不了你，全凭自觉。</p>
+<p>所以，我想以一个外国人的身份生活在这里，享受着两个国家带来的好处，一旦有一天情况不对，再一拍屁股回国便是。</p>
+]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2021]]></title>
         <id>https://simo-nao.github.io/post/2021/</id>
         <link href="https://simo-nao.github.io/post/2021/">
         </link>
-        <updated>2021-10-07T09:23:17.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="oct7th">OCT.7th</h1>
+        <updated>2021-10-07T13:23:17.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="oct10th">OCT.10th</h1>
+<p>有趣的人在哪里呢？有趣的人在哪里呢？有趣的人在哪里呢？</p>
+<h1 id="oct7th">OCT.7th</h1>
 <p>感觉 A 的话还没有我一个 INFP 的话多，TA 真的是个 ENFJ 吗。 感觉是每天都很忙的原因，毕竟我工作起来就没什么精力 social 了，不管再好的心情，只要一过7点，就开始指数级下降，虽然一般8点下班，一小时就可以让心情变得很糟。更何况每天6点起，晚上到家都10点了。其实更好奇的是，TA 为什么不换个工作呢，感觉比国内 996 还可怕了。啊啊啊啊啊啊啊啊，日常不想工作！</p>
 <h1 id="oct6th">OCT.6th</h1>
-<p>还是挺喜欢住 share house 的，能遇见各种各样的人，就是不敢主动和他们交流 （</p>
+<p>还是挺喜欢住 share house 的，公共区域的存在，利用空间要比平常自己租的房子要大得多，而且能遇见各种各样的人，就是不敢主动和他们交流 （ 好羡慕他们的英语日语都好流利，我什么时候才能像他们那样。</p>
 <!-- 就是不敢主动和他们交流  -->
-<h1 id=""></h1>
 ]]></content>
     </entry>
     <entry>
@@ -28,7 +55,7 @@
         <id>https://simo-nao.github.io/post/e-meng/</id>
         <link href="https://simo-nao.github.io/post/e-meng/">
         </link>
-        <updated>2021-10-05T02:21:27.000Z</updated>
+        <updated>2021-10-05T03:21:27.000Z</updated>
         <content type="html"><![CDATA[<p>再次从死亡中惊醒过来，久违的噩梦，上次还是半年前。<br>
 毫无例外，我又被家人杀死了。<br>
 一次又一次的梦，好像都在告诉现实中的我要远离他们。</p>
