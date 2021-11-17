@@ -2,7 +2,7 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
     <id>https://simo-nao.github.io</id>
     <title>KAIBA</title>
-    <updated>2021-11-15T01:24:19.293Z</updated>
+    <updated>2021-11-17T01:55:27.540Z</updated>
     <generator>https://github.com/jpmonette/feed</generator>
     <link rel="alternate" href="https://simo-nao.github.io"/>
     <link rel="self" href="https://simo-nao.github.io/atom.xml"/>
@@ -10,12 +10,30 @@
     <icon>https://simo-nao.github.io/favicon.ico</icon>
     <rights>All rights reserved 2021, KAIBA</rights>
     <entry>
+        <title type="html"><![CDATA[Grubsong]]></title>
+        <id>https://simo-nao.github.io/post/grubsong/</id>
+        <link href="https://simo-nao.github.io/post/grubsong/">
+        </link>
+        <updated>2021-11-17T02:28:38.000Z</updated>
+        <content type="html"><![CDATA[<p>鉴于 Spotify 的分享功能实在太赞，决定把扔喜欢的歌在这里。</p>
+<iframe src="https://open.spotify.com/embed/track/2VRcLEvQCMByWBuvM9gaJ2?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe src="https://open.spotify.com/embed/track/6XJ97eSwNCemvmereo9LyB?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe src="https://open.spotify.com/embed/album/3qbcMEDN44a6vdxm12FkSM?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+<iframe src="https://open.spotify.com/embed/album/4XgGOMRY7H4hl6OQi5wb2Z?utm_source=generator" width="100%" height="380" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>]]></content>
+    </entry>
+    <entry>
         <title type="html"><![CDATA[2021]]></title>
         <id>https://simo-nao.github.io/post/2021/</id>
         <link href="https://simo-nao.github.io/post/2021/">
         </link>
-        <updated>2021-10-08T16:23:17.000Z</updated>
-        <content type="html"><![CDATA[<h1 id="nov13th">Nov.13th</h1>
+        <updated>2021-10-08T17:23:17.000Z</updated>
+        <content type="html"><![CDATA[<h1 id="nov17th">Nov.17th</h1>
+<iframe src="https://open.spotify.com/embed/track/2VRcLEvQCMByWBuvM9gaJ2?utm_source=generator" width="100%" height="80" frameBorder="0" allowfullscreen="" allow="autoplay; clipboard-write; encrypted-media; fullscreen; picture-in-picture"></iframe>
+wow spotify 这个分享功能好赞！！！
+真的好喜欢国外排名，还有这首歌。
+自己一定要坚持下去，我还有很多期待的东西。silksong，zelda，还有很多动画，音乐etc。。
+这些都是支撑我活下去的动力。
+<h1 id="nov13th">Nov.13th</h1>
 <p>仔细思考了一下还是决定新年不和 a 君去京都了，很多很多原因，最主要的还是没钱，以及觉得和没见过的网友去另一个地方还是挺可怕的（他当然还是挺失望的，不过他居然没试图说服我🤣<br>
 哈哈哈，今天b君花了一个通宵教我识谱。我感觉我已经入门钢琴了，就差实战了！虽然现在还没有钢琴🤣</p>
 <h1 id="nov12th">Nov.12th</h1>
